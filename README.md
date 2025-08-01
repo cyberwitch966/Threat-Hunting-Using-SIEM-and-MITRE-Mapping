@@ -2,8 +2,7 @@
 Group 7 Repository containing Report, Logs and Slides for the second group project. 
 It contains the full detailed report, mitre mapping, queries used, raw logs,
 siem dashboards and powerpoint presentation in their respective folders. 
-The full detailed [report]()
-) contains the steps taken to simulate an attack using APTSimulator 
+The full detailed [report](https://github.com/cyberwitch966/Threat-Hunting-Using-SIEM-and-MITRE-Mapping/tree/63e2874ff6105dbfd1fb94b1f2e5a426e3c1241b/report) contains the steps taken to simulate an attack using APTSimulator 
 in order to obtain [raw logs](https://github.com/cyberwitch966/Threat-Hunting-Using-SIEM-and-MITRE-Mapping/tree/main/raw%20logs) from Windows Event Viewer. The logs can be viwed in the folder raw logs 
 which contains logs from sources such as sysmon, security, system and windows defender. 
 These logs were injested into splunk where a dashboard was created with a focus on privilege escalation. 
