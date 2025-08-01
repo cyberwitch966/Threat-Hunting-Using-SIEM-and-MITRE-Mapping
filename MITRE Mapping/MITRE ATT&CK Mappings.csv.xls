@@ -8,23 +8,3 @@ security_log.csv;4720;Create Account;T1136.001;Create Account: Local Account;A n
 security_log.csv;4732;Create Account;T1136.001;Create Account: Local Account;A user account was added to a security-enabled local group
 security_log.csv;4688;Access Token Manipulation;T1134.001;Token Impersonation/Theft;An attempted to register a security privilege by user or process
 system_log.csv;7045;Task/Job;T1053.005;Scheduled Task/Job: Scheduled Task;A new service created via PowerShell to run code.
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
