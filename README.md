@@ -1,8 +1,8 @@
 # Threat-Hunting-Using-SIEM-and-MITRE-Mapping
-Group 7 Repository containing Report, Logs and Slides for Group Project 7. 
+Group 7 Repository containing Report, Logs and Slides for the second group project. 
 It contains the full detailed report, mitre mapping, queries used, raw logs,
 siem dashboards and powerpoint presentation in their respective folders. 
-The full detailed [report]([url](https://github.com/cyberwitch966/Threat-Hunting-Using-SIEM-and-MITRE-Mapping/tree/main/report)
+The full detailed [report](report.md)
 ) contains the steps taken to simulate an attack using APTSimulator 
 in order to obtain [raw logs]([url](https://github.com/cyberwitch966/Threat-Hunting-Using-SIEM-and-MITRE-Mapping/tree/main/raw%20logs)) from Windows Event Viewer. The logs can be viwed in the folder raw logs 
 which contains logs from sources such as sysmon, security, system and windows defender. 
