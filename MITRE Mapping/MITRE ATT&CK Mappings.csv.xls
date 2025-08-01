@@ -1,0 +1,30 @@
+Source;Event ID;Tactic;Technique ID;Technique Name;Procedure
+security_log.csv;4624;Initial access;T1078.001;Valid Accounts: Default Accounts ;A successful logon occurred using a default account.
+security_log.csv;4648;Privilege Escalation;T1134.002;Access Token Manipulation: Create Process with Token;Shows an attempt to log on using explicit credentials. 
+security_log.csv;4672;Access Token Manipulation;T1134.002;Access Token Manipulation: Create Process with Token;A user was assigned privileges at log. Potential token impersonation.
+security_log.csv;5379;Credential Access;T1555.004;Credentials from Password Stores: Windows Credential Manager;Credential Manager credentials were accessed.
+security_log.csv;4798;Defense Evasion;T1564.002;Hide Artifacts: Hidden Users;Local group memberships were enumerated. 
+security_log.csv;4720;Create Account;T1136.001;Create Account: Local Account;A new local user account was created on the system.
+security_log.csv;4732;Create Account;T1136.001;Create Account: Local Account;A user account was added to a security-enabled local group
+security_log.csv;4688;Access Token Manipulation;T1134.001;Token Impersonation/Theft;An attempted to register a security privilege by user or process
+system_log.csv;7045;Task/Job;T1053.005;Scheduled Task/Job: Scheduled Task;A new service created via PowerShell to run code.
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
