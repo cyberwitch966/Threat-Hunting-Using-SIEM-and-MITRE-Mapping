@@ -1,0 +1,21 @@
+*SPL Queries Used*
+
+index=”aptsimlogs” source=”security_log.csv” Eventid="4672"
+index=”aptsimlogs” source=”security_log.csv” Eventid="4720" OR Eventid="4756"
+index=”aptsimlogs” source=”security_log.csv” Eventid="4688"
+index=”aptsimlogs” source=”system_log.csv” Eventid="7045 OR Eventid="4697"
+index="aptsimlogs"
+| stats count by EventId
+
+index="aptsimlogs" source="security_log.csv" 
+| stats count by EventId
+
+index="aptsimlogs" source="sysmon_log.csv" 
+| stats count by EventId
+
+index="aptsimlogs" source="security_log.csv" EventId=4688
+
+index="aptsimlogs" source="security_log.csv"
+
+index="aptsimlogs" source="sysmon_log.csv
+
