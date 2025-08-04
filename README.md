@@ -1,4 +1,6 @@
 # Threat-Hunting-Using-SIEM-and-MITRE-Mapping
+![Splunk](https://grafana.com/media/solutions/splunk/grafana-dashboard-solutions-splunk-visualize-2560x1294.png)
+
 Group 7 Repository containing Report, Logs and Slides for the second group project. 
 It contains the full detailed report, mitre mapping, queries used, raw logs,
 siem dashboards and powerpoint presentation in their respective folders. 
